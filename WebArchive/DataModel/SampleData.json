@@ -1,0 +1,334 @@
+{
+    "Groups": [
+        {
+            "UniqueId": "Group-1",
+            "Title": "Animation",
+            "Subtitle": "Animation & Cartoons",
+            "ImagePath": "Assets/ac.png",
+            "Description": "Whether you want to watch classic cartoons from a bygone era, Brick Films made with your favorite building toys, Machinima patched together from video games, or the artful computer animations selected for the 2001 SIGGRAPH competition, this library of free animated films and movies has something to keep you entertained!",
+            "Items": [
+                {
+                    "UniqueId": "Group-1-Item-1",
+                    "Title": "Popeye for President",
+                    "Subtitle": "Popeye",
+                    "ImagePath": "Assets/popeye_1.jfif",
+                    "Description": "Popeye and Bluto are both running for president. They are tied with exactly the same number of votes, but Miss Olive Oyl has yet to cast her ballot. Which candidate will be able to impress her the most and earn her precious vote? ",
+                    "Content": "Copyright: MCMLVI by Paramount Pictures Corporation, All Rights Reserved",
+                    "Video": "ia700401.us.archive.org/24/items/Popeye_forPresident/Popeye_forPresident_512kb",
+                    "Published": "Published: 1956",
+                    "Usage": "Usage: Public Domain",
+                    "Runtime": "Runtime: 6:10"
+                },
+                {
+                    "UniqueId": "Group-1-Item-2",
+                    "Title": "Tom and Jerry",
+                    "Subtitle": "T & J",
+                    "ImagePath": "Assets/tj_1.jfif",
+                    "Description": "This one isn't often seen during the holidays anymore. It is only mildly religious",
+                    "Content": "",
+                    "Video": "ia600701.us.archive.org/21/items/TomAndJerryInANightBeforeChristmas/TomAndJerry-003-NightBeforeChristmas1941",
+                    "Published": "",
+                    "Usage": "",
+                    "Runtime": "Runtime: 8:39"
+                },
+                {
+                    "UniqueId": "Group-1-Item-3",
+                    "Title": "Woody Woodpecker",
+                    "Subtitle": "Woody",
+                    "ImagePath": "Assets/ww_1.jfif",
+                    "Description": "Weatherby Groundhog predicts a cold winter and advises all the birds to fly south. But Woody Woodpecker decides to stay, and nearly starves. Animation by Alex Lovy and Lester Kline, story by Ben Hardaway and L.E. Elliott, music by Darrell Calker.",
+                    "Content": "Copyright: Universal Studios & Walter Lantz Productions",
+                    "Video": "ia700508.us.archive.org/23/items/woody_woodpecker_pantry_panic/woody_woodpecker_pantry_panic_512kb",
+                    "Published": "",
+                    "Usage": "",
+                    "Runtime": "Runtime: 7:00"
+                },
+                {
+                    "UniqueId": "Group-1-Item-4",
+                    "Title": "Betty Boop",
+                    "Subtitle": "Betty Boop",
+                    "ImagePath": "Assets/bp_1.jfif",
+                    "Description": "Memorable rendition of \"St James Infirmary\" by Cab Calloway",
+                    "Content": "Copyright: MCMLVI by Paramount Pictures Corporation, All Rights Reserved",
+                    "Video": "ia700500.us.archive.org/20/items/bb_snow_white/bb_snow_white_512kb",
+                    "Published": "Published: 1933",
+                    "Usage": "Usage: Public Domain",
+                    "Runtime": ""
+                }
+            ]
+        },
+        {
+            "UniqueId": "Group-2",
+            "Title": "Community Video",
+            "Subtitle": "Community Video",
+            "ImagePath": "Assets/LightGray.png",
+            "Description": "You are invited to view or upload your videos to the Community collection. These thousands of videos were contributed by Archive users and community members. These videos are available for free download. Please select a Creative Commons License during upload so that others will know what they may (or may not) do with with your video.",
+            "Items": [
+                {
+                    "UniqueId": "Group-2-Item-1",
+                    "Title": "beeenieilp",
+                    "Subtitle": "beeenieilp",
+                    "ImagePath": "Assets/be.jfif",
+                    "Description": "beeenieilp",
+                    "Content": "",
+                    "Video": "ia802604.us.archive.org/12/items/beeenieilp/beeen",
+                    "Published": "",
+                    "Usage": "",
+                    "Runtime": ""
+                },
+                {
+                    "UniqueId": "Group-2-Item-2",
+                    "Title": "electricsheep",
+                    "Subtitle": "electricsheep",
+                    "ImagePath": "Assets/el_1.jfif",
+                    "Description": "Archive of flock 244 of the Electric Sheep, see electricsheep.org and scottdraves.com",
+                    "Content": "",
+                    "Video": "ia601006.us.archive.org/32/items/electricsheep-flock-244-80000-7/00244=80107=77393=77409",
+                    "Published": "",
+                    "Usage": "Attribution-Noncommercial 3.0 United States",
+                    "Runtime": ""
+                },
+                {
+                    "UniqueId": "Group-2-Item-3",
+                    "Title": "dr",
+                    "Subtitle": "dr",
+                    "ImagePath": "Assets/dr_1.jfif",
+                    "Description": "dr dr dr",
+                    "Content": "",
+                    "Video": "ia801504.us.archive.org/19/items/filipeoliveira1979_sapo_Dr/dr",
+                    "Published": "",
+                    "Usage": "",
+                    "Runtime": ""
+                }
+            ]
+        },
+        {
+            "UniqueId": "Group-3",
+            "Title": "Computers & Technology",
+            "Subtitle": "Technology",
+            "ImagePath": "Assets/MediumGray.png",
+            "Description": "Featuring two television programs popular in the 1980's and 1990's. Computer Chronicles and Net Cafe, this library showcases videos about computing and technology. Collection topics include BBS, the Open Source movement, and Internet governance. Many of these movies are available for free download.",
+            "Items": [
+                {
+                    "UniqueId": "Group-3-Item-1",
+                    "Title": "Commodore 64",
+                    "Subtitle": "Commodore 64",
+                    "ImagePath": "Assets/C64.jfif",
+                    "Description": "The Commodore 64 was the first computer for many families. This program looks at what you can do with the famous C-64. Demonstrations include The Wine Steward, Skate or Die, Strike Fleet, the Koala Pad, Master Composer, Tetris, and Berkeley Software's GEOS. Includes a visit to a Commodore Owners Users Group meeting and an interview with Max Toy, president of Commodore. Originally broadcast in 1988. Copyright 1988 Stewart Cheifet Productions.",
+                    "Content": "",
+                    "Video": "ia600504.us.archive.org/19/items/CC517_commodore_64/CC517_commodore_64_512kb",
+                    "Published": "",
+                    "Usage": "",
+                    "Runtime": ""
+                },
+                {
+                    "UniqueId": "Group-3-Item-2",
+                    "Title": "Microsoft Research",
+                    "Subtitle": "Microsoft",
+                    "ImagePath": "Assets/mr_1.jfif",
+                    "Description": "This talk will describe a general recipe for replacing discrete stochastic processes by deterministic analogues that satisfy the same first-order limit laws but have smaller fluctuations. The recipe will be applied to several illustrative problems in the study of random walk and random aggregation. In particular, a derandomized version of the internal diffusion-limited aggregation model in two dimensions gives rise to a growing blob that is remarkably close to circular and also displays intriguing internal structures. This is joint work with Ander Holroyd and Lionel Levine.",
+                    "Content": "Microsoft Research",
+                    "Video": "ia902505.us.archive.org/12/items/Microsoft_Research_Video_104906/Microsoft_Research_Video_104906",
+                    "Published": "Published: November 13, 2003",
+                    "Usage": "",
+                    "Runtime": "Runtime: 0:54:08"
+                },
+                {
+                    "UniqueId": "Group-3-Item-3",
+                    "Title": "TV Shows Online",
+                    "Subtitle": "Online Shows",
+                    "ImagePath": "Assets/tv_1.jfif",
+                    "Description": "The Internet is challenging television for people's attention. But it's also providing a new platform for the TV business. Sites covered include thirdstory.com, a fan site for Xena, Warrior Princess, a site for sci-fi fans at, kpix.com, and a site exclusively devoted to Star Trek fans who are obsessed with the number '47'. Hosts are Jane Wither, Andrew deVries, and Stewart Cheifet. Shot on location at the CyberSmith internet cafe in Palo Alto, California. Originally broadcast in 1997.",
+                    "Content": "",
+                    "Video": "ia700401.us.archive.org/11/items/TVshowso98/TVshowso98_512kb",
+                    "Published": "Published: 1998",
+                    "Usage": "",
+                    "Runtime": "Runtime: 0:26:46"
+                },
+                {
+                    "UniqueId": "Group-3-Item-4",
+                    "Title": "UNIX",
+                    "Subtitle": "UNIX",
+                    "ImagePath": "Assets/ux.jfif",
+                    "Description": "AT&T's computer operating system is threatening to take over IBM's MS-DOS dominance.",
+                    "Content": "Copyright: AT&T",
+                    "Video": "ia802302.us.archive.org/27/items/UNIX1985/UNIX1985_512kb",
+                    "Published": "Published: 18th February 1995",
+                    "Usage": "",
+                    "Runtime": ""
+                }
+            ]
+        },
+        {
+            "UniqueId": "Group-4",
+            "Title": "Movies",
+            "Subtitle": "Movies",
+            "ImagePath": "Assets/MediumGray.png",
+            "Description": "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+            "Items": [
+                {
+                    "UniqueId": "Group-4-Item-1",
+                    "Title": "House on Haunted Hill",
+                    "Subtitle": "House on Haun..",
+                    "ImagePath": "Assets/hohh.jfif",
+                    "Description": "Frederick Loren has invited five strangers to a party of a lifetime. He is offering each of them $10,000 if they can stay the night in a house.",
+                    "Content": "Copyright: William Castle Productions",
+                    "Video": "ia700408.us.archive.org/13/items/house_on_haunted_hill_ipod/house_on_haunted_hill_512kb",
+                    "Published": "Published: 1959",
+                    "Usage": "Public Domain",
+                    "Runtime": "Runtime: 01:14:43"
+                },
+                {
+                    "UniqueId": "Group-4-Item-2",
+                    "Title": "Plan 9 from Outer Space",
+                    "Subtitle": "Plan 9",
+                    "ImagePath": "Assets/pfos.jfif",
+                    "Description": "Can your heart stand the shocking facts about grave robbers from outer space? That's the question on the lips of the narrator of this tale about flying saucers, zombies and cardboard tombstones. A pair of aliens, angered by the stupid minds of planet Earth, set up shop in a California cemetery. Their plan: to animate an army of the dead to march on the capitals of the world. (The fact that they have only managed to resurrect three zombies to date has not discouraged them.) An intrepid airline pilot living near the cemetery must rescue his wife from this low-budget terror. Can you prove it *didn't* happen?",
+                    "Content": "Copyright: Public Domain",
+                    "Video": "ia600401.us.archive.org/19/items/Plan_9_from_Outer_Space_1959/Plan_9_from_Outer_Space_1959_512kb",
+                    "Published": "Published: 1959",
+                    "Usage": "Public Domain",
+                    "Runtime": "Runtime: 00:79:00"
+                },
+                {
+                    "UniqueId": "Group-4-Item-3",
+                    "Title": "Night of the Living Dead",
+                    "Subtitle": "Night of the Liv..",
+                    "ImagePath": "Assets/notld.jfif",
+                    "Description": "In this classic yet still creepy horror film, strangers hold up in a rural Pennsylvania farmhouse and battle constant attacks from dead locals who have been brought back to life by mysterious radiation. Note: This item contains a user-contributed srt subtitle file. To use this file you must download an srt compatible player and point it at the correct video and srt files (google for srt subtitles). We include this file for advanced users who may wish to use it, however the Archive does not support any player that displays subtitles stored external to the video they are intended to be used with, nor can we vouch for the quality or completeness of the subtitling effort.",
+                    "Content": "Copyright: Public Domain",
+                    "Video": "ia601501.us.archive.org/20/items/night_of_the_living_dead/night_of_the_living_dead_512kb",
+                    "Published": "Published: 1968",
+                    "Usage": "Public Domain",
+                    "Runtime": "Runtime: 01:35:17"
+                },
+                {
+                    "UniqueId": "Group-4-Item-4",
+                    "Title": "Charlie Chaplin",
+                    "Subtitle": "Charlie Chaplin",
+                    "ImagePath": "Assets/chap.jfif",
+                    "Description": "Four Chaplin shorts from 1917: The Adventurer, The Cure, Easy Street and The Immigrant, presented with music and sound effects.",
+                    "Content": "Copyright: Public Domain",
+                    "Video": "ia802303.us.archive.org/18/items/charlie_chaplin_film_fest/charlie_chaplin_film_fest_512kb",
+                    "Published": "Published: 1938",
+                    "Usage": "Public Domain",
+                    "Runtime": "Runtime: 01:17:26"
+                }
+            ]
+        },
+        {
+            "UniqueId": "Group-5",
+            "Title": "Top Rated",
+            "Subtitle": "Top Rated",
+            "ImagePath": "Assets/nf.png",
+            "Description": "Watch our highly reviewed videos from our archive here!",
+            "Items": [
+                {
+                    "UniqueId": "Group-5-Item-1",
+                    "Title": "Final Fantasy II",
+                    "Subtitle": "FF 2 SNES",
+                    "ImagePath": "Assets/nf.png",
+                    "Description": "Speed run of Final Fantasy II in 38 segments completed on December 19 2005. Available in low quality only, video quality is poor when moving in the overworld. Timing note: Game's timer is referenced at its last visible point, then real time from then to final damage numbers appearing is added. Resulting time is rounded up to the next whole minute since the game timer could've have been :59 seconds at the last visible moment.",
+                    "Content": "Copyright: Jevin 'Enhasa' Juang",
+                    "Video": "ia700408.us.archive.org/1/items/FinalFantasy2_356/FinalFantasy2_356_part01_512kb",
+                    "Published": "Published: 2004",
+                    "Usage": "Public Domain",
+                    "Runtime": "Runtime: 04:37:20"
+                },
+                {
+                    "UniqueId": "Group-5-Item-2",
+                    "Title": "Popeye for President",
+                    "Subtitle": "Popeye",
+                    "ImagePath": "Assets/popeye_1.jfif",
+                    "Description": "Popeye and Bluto are both running for president. They are tied with exactly the same number of votes, but Miss Olive Oyl has yet to cast her ballot. Which candidate will be able to impress her the most and earn her precious vote? ",
+                    "Content": "Copyright: MCMLVI by Paramount Pictures Corporation, All Rights Reserved",
+                    "Video": "ia700401.us.archive.org/24/items/Popeye_forPresident/Popeye_forPresident_512kb",
+                    "Published": "Published: 1956",
+                    "Usage": "Usage: Public Domain",
+                    "Runtime": "Runtime: 6:10"
+                },
+                {
+                    "UniqueId": "Group-5-Item-3",
+                    "Title": "Night of the Living Dead",
+                    "Subtitle": "Night of the Liv..",
+                    "ImagePath": "Assets/notld.jfif",
+                    "Description": "In this classic yet still creepy horror film, strangers hold up in a rural Pennsylvania farmhouse and battle constant attacks from dead locals who have been brought back to life by mysterious radiation. Note: This item contains a user-contributed srt subtitle file. To use this file you must download an srt compatible player and point it at the correct video and srt files (google for srt subtitles). We include this file for advanced users who may wish to use it, however the Archive does not support any player that displays subtitles stored external to the video they are intended to be used with, nor can we vouch for the quality or completeness of the subtitling effort.",
+                    "Content": "Copyright: Public Domain",
+                    "Video": "ia601501.us.archive.org/20/items/night_of_the_living_dead/night_of_the_living_dead_512kb",
+                    "Published": "Published: 1968",
+                    "Usage": "Public Domain",
+                    "Runtime": "Runtime: 01:35:17"
+                },
+                {
+                    "UniqueId": "Group-5-Item-4",
+                    "Title": "Knights of the Old Republic",
+                    "Subtitle": "Star Wars",
+                    "ImagePath": "Assets/kotor.jfif",
+                    "Description": "Speed run of Star Wars: Knights of the Old Republic with only dark-side choices in 26 segments, completed on July 1 2005. Available in 320x240 and 800x600 versions.",
+                    "Content": "Copyright: Jeff 'Lord Revan' Richardson",
+                    "Video": "ia802604.us.archive.org/3/items/KnightsOfTheOldRepublic_dark_334/KnightsOfTheOldRepublic_dark_334_HQ_part01_512kb",
+                    "Published": "Published: 2005",
+                    "Usage": "Public Domain",
+                    "Runtime": "Runtime: 03:49:55"
+                }
+            ]
+        },
+        {
+            "UniqueId": "Group-6",
+            "Title": "Most Viewed",
+            "Subtitle": "Most Viewed",
+            "ImagePath": "Assets/nf.png",
+            "Description": "Watch our most watched videos from our archive here!",
+            "Items": [
+                {
+                    "UniqueId": "Group-6-Item-1",
+                    "Title": "Final Fantasy II",
+                    "Subtitle": "FF 2 SNES",
+                    "ImagePath": "Assets/nf.png",
+                    "Description": "Speed run of Final Fantasy II in 38 segments completed on December 19 2005. Available in low quality only, video quality is poor when moving in the overworld. Timing note: Game's timer is referenced at its last visible point, then real time from then to final damage numbers appearing is added. Resulting time is rounded up to the next whole minute since the game timer could've have been :59 seconds at the last visible moment.",
+                    "Content": "Copyright: Jevin 'Enhasa' Juang",
+                    "Video": "ia700408.us.archive.org/1/items/FinalFantasy2_356/FinalFantasy2_356_part01_512kb",
+                    "Published": "Published: 2004",
+                    "Usage": "Public Domain",
+                    "Runtime": "Runtime: 04:37:20"
+                },
+                {
+                    "UniqueId": "Group-6-Item-2",
+                    "Title": "Microsoft Research",
+                    "Subtitle": "Microsoft",
+                    "ImagePath": "Assets/mr_1.jfif",
+                    "Description": "This talk will describe a general recipe for replacing discrete stochastic processes by deterministic analogues that satisfy the same first-order limit laws but have smaller fluctuations. The recipe will be applied to several illustrative problems in the study of random walk and random aggregation. In particular, a derandomized version of the internal diffusion-limited aggregation model in two dimensions gives rise to a growing blob that is remarkably close to circular and also displays intriguing internal structures. This is joint work with Ander Holroyd and Lionel Levine.",
+                    "Content": "Microsoft Research",
+                    "Video": "ia902505.us.archive.org/12/items/Microsoft_Research_Video_104906/Microsoft_Research_Video_104906",
+                    "Published": "Published: November 13, 2003",
+                    "Usage": "",
+                    "Runtime": "Runtime: 0:54:08"
+                },
+                {
+                    "UniqueId": "Group-6-Item-3",
+                    "Title": "Charlie Chaplin",
+                    "Subtitle": "Charlie Chaplin",
+                    "ImagePath": "Assets/chap.jfif",
+                    "Description": "Four Chaplin shorts from 1917: The Adventurer, The Cure, Easy Street and The Immigrant, presented with music and sound effects.",
+                    "Content": "Copyright: Public Domain",
+                    "Video": "ia802303.us.archive.org/18/items/charlie_chaplin_film_fest/charlie_chaplin_film_fest_512kb",
+                    "Published": "Published: 1938",
+                    "Usage": "Public Domain",
+                    "Runtime": "Runtime: 01:17:26"
+                },
+                {
+                    "UniqueId": "Group-6-Item-4",
+                    "Title": "Tom and Jerry",
+                    "Subtitle": "Tom & Jerry",
+                    "ImagePath": "Assets/tj_1.jfif",
+                    "Description": "This one isn't often seen during the holidays anymore. It is only mildly religious",
+                    "Content": "",
+                    "Video": "ia600701.us.archive.org/21/items/TomAndJerryInANightBeforeChristmas/TomAndJerry-003-NightBeforeChristmas1941",
+                    "Published": "",
+                    "Usage": "",
+                    "Runtime": "Runtime: 8:39"
+                }
+            ]
+        }
+    ]
+}

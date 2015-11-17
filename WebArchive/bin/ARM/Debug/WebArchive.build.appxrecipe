@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KSHATRIYAMKII</Machine>
+    <WindowsUser>Aaron</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>cb395fbb-5214-4211-b001-6078c64daf3f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\obj\ARM\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\bin\ARM\Debug\WebArchive.exe">
+      <PackagePath>WebArchive.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\ac.png">
+      <PackagePath>Assets\ac.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\HubBackground.theme-dark.png">
+      <PackagePath>Assets\HubBackground.theme-dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\HubBackground.theme-light.png">
+      <PackagePath>Assets\HubBackground.theme-light.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\nf.png">
+      <PackagePath>Assets\nf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\be.jfif">
+      <PackagePath>Assets\be.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\bp_1.jfif">
+      <PackagePath>Assets\bp_1.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\C64.jfif">
+      <PackagePath>Assets\C64.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\chap.jfif">
+      <PackagePath>Assets\chap.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\dr_1.jfif">
+      <PackagePath>Assets\dr_1.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\el_1.jfif">
+      <PackagePath>Assets\el_1.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\hohh.jfif">
+      <PackagePath>Assets\hohh.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\kotor.jfif">
+      <PackagePath>Assets\kotor.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\mr_1.jfif">
+      <PackagePath>Assets\mr_1.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\notld.jfif">
+      <PackagePath>Assets\notld.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\pfos.jfif">
+      <PackagePath>Assets\pfos.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\popeye_1.jfif">
+      <PackagePath>Assets\popeye_1.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\tj_1.jfif">
+      <PackagePath>Assets\tj_1.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\tv_1.jfif">
+      <PackagePath>Assets\tv_1.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\ux.jfif">
+      <PackagePath>Assets\ux.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Assets\ww_1.jfif">
+      <PackagePath>Assets\ww_1.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\bin\ARM\Debug\WebArchive.xr.xml">
+      <PackagePath>WebArchive.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\bin\ARM\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\bin\ARM\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\bin\ARM\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aaron\Documents\Visual Studio 2015\Projects\WebArchive\WebArchive\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
